@@ -1,19 +1,33 @@
 {
     "files.autoSave": "afterDelay",
     "cSpell.words": [
+        "alvoexp",
+        "alvoexpmensal",
         "bonusminuto",
+        "boostar",
         "boostminuto",
+        "cbrt",
         "contg",
         "conth",
         "contm",
         "contp",
         "cosb",
+        "expbonus",
+        "expfeita",
+        "exphora",
+        "exphoras",
+        "expnova",
+        "horabonus",
+        "horaraw",
         "minutobonus",
+        "minutorestante",
         "prodc",
         "rawminuto",
         "scol",
         "senoa",
         "senob",
+        "suaexp",
+        "suaexpmensal",
         "tangb"
     ]
 }
